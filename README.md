@@ -1,4 +1,7 @@
-
+<p align="center">
+<img width="578" alt="img1" src="https://user-images.githubusercontent.com/99672888/172890382-5bad340f-598c-4db9-963a-2cfdf0c7ddaa.png">
+</p>
+  
 <h2>👩🏻‍💻 About Me</h2>
 
 - 👋 Hi, I'm Vania
