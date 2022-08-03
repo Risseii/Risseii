@@ -6,7 +6,7 @@
 
 - 👋 Hi, I'm Vania
 - 👀 I’m interested in front end, back end and solving problems. 
-- 🌱 I’m currently working on my projects.
+- 🌱 I’m currently working on projects.
 - 😺 Hobbies: I love travelling, reading , watching series and movies. I also 💜 design and colors 🖼 🎨. 
 - 📫 Reach out to me at: vanibel267@gmail.com
 
