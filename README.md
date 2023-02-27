@@ -5,9 +5,9 @@
 <h2>👩🏻‍💻 About Me</h2>
 
 - 👋 Hi, I'm Vania
-- 👀 I’m interested in front end, back end and solving problems. 
+- 👀 I’m interested in data analytics, front end and solving problems. 
 - 🌱 I’m currently working on projects.
-- 😺 Hobbies: I love travelling, reading , watching series and movies. I also 💜 design and colors 🖼 🎨. 
+- 😺 Hobbies: I love reading, watching series and movies and learning. I also 💜 design and colors 🖼 🎨. 
 - 📫 Reach out to me at: vanibel267@gmail.com
 
 <h2 align="left">🍪 Tech Stack</h2>
