@@ -7,7 +7,7 @@
 - 👋 Hi, I'm Vania
 - 👀 I’m interested in data analytics and solving problems. 
 - 🌱 I’m currently working on projects.
-- 😺 Hobbies: I love reading, watching series and movies. I also 💜 design and colors 🖼 🎨. 
+- 😺 Hobbies: I enjoy watching cdramas, listening to music, constantly learning new things, and exploring everything related to technology like new AI apps and design 🖼 🎨.
 - 📫 Reach out to me at: vanibel267@gmail.com
 
 <h2 align="left">🍪 Tech Stack</h2>
@@ -39,12 +39,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-
-  <!-- Control de versiones -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-
   <!-- Diseño -->
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
