@@ -7,7 +7,7 @@
 - 👋 Hi, I'm Vania
 - 👀 I’m interested in data analytics and solving problems. 
 - 🌱 I’m currently working on projects.
-- 😺 Hobbies: I enjoy watching cdramas, listening to music, constantly learning new things, and exploring everything related to technology like new AI apps and design 🖼 🎨.
+- 😺 Hobbies: I enjoy listening to music, constantly learning new things, and exploring everything related to technology like new AI apps and design 🖼 🎨.
 - 📫 Reach out to me at: vanibel267@gmail.com
 
 <h2 align="left">🍪 Tech Stack</h2>
